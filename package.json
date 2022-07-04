@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@types/node": "^18.0.0",
+    "global": "^4.4.0",
+    "ts-lib": "^0.0.5",
+    "ts-node": "^10.8.1"
+  },
+  "name": "programming-core-typescript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyencaophong/typescript-core.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/nguyencaophong/typescript-core/issues"
+  },
+  "homepage": "https://github.com/nguyencaophong/typescript-core#readme",
+  "description": ""
+}
